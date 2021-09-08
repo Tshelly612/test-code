@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta chrset="utf-8">
+
+    <title>Welcome to my website!</title>
+
+</head>
+
+<body>
+
+    This is a quick templete of how to start html 
+
+</body>
+
+</html>
