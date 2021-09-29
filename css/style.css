@@ -10,3 +10,16 @@ h1 {
     width: 100px;
     
 }
+
+.flex-parent {
+    display: flex;
+
+    border: solid 1px green;
+    padding: 20px;
+} 
+
+.flex-item {
+
+    border: dotted 2px red;
+    padding: 20px;
+}
